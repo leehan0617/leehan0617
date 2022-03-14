@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![leehan0617's github stats](https://github-readme-stats.vercel.app/api?username=leehan0617)](https://github.com/leehan0617/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/leehan0617)](https://hits.seeyoufarm.com)
+
+
+- ⚡
+- 😄
